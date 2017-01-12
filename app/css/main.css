@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "digital";
+  /* Имя шрифта */
+  src: url(../fonts/digital-7.ttf);
+  /* Путь к файлу со шрифтом */
+}
+body {
+  padding: 0px;
+  background-image: url(../img/fon2.png);
+}
